@@ -1,12 +1,14 @@
-# MY FIRST WEBPAGE
+# Cupcake's website
 
-#### Epicodus Day 2 - last exercise, 03/14/17
+#### Epicodus, Wednesday Day 3 - Cupcake ex, 03/15/17
 
-#### By Sowmya Dinavahi and Dominic Brown
+#### Authors
+
+Dominic Brown and Trevor Fast
 
 ## Description
 
-We c
+We created a website demonstrating the use of various images, links, styling, lists, and more.
 
 ## Setup/Installation Requirements
 
@@ -18,8 +20,8 @@ There are no bugs in this file as of now.
 
 ## Support and contact details
 
-Sowmya's email: Sowmya.dsl@gmail.com
 Dominic's email: yeahdom@gmail.com
+Trevor's email: TrevorRFast@gmail.com
 
 ## Technologies Used
 
@@ -30,4 +32,4 @@ CSS
 
 OpenSource
 
-Copyright (c) 2016 Sowmya Dinavahi and Dominic Brown
+Copyright (c) 2016 Trevor Fast and Dominic Brown
