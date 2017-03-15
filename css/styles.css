@@ -17,13 +17,18 @@ body.back {
 }
 
 .list1 {
-  display: block;
+   display: inline;
   list-style-type: none;
   text-decoration: none;
+  padding-right: 15px;
 }
 
+ul{
+  padding-top: 15px;
+}
 footer {
   background-color: #f99ccc;
+  height: 65px;
 }
 
 header {
