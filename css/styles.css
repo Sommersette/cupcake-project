@@ -34,3 +34,11 @@ table {
 margin-left: auto;
 margin-right: auto;
 }
+
+.best {
+  border-style: solid;
+  color: skyblue;
+  background: #ffffaa;
+  border-width: 12px;
+  border-radius: 75%
+}
